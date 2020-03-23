@@ -11,4 +11,4 @@ the topics.
 * Covid19 cases in China (in detail)
 * Covid19 cases in USA (in detail)
 
-![Alt text](/home/nabeelhasan/Git/COVID-19/Covid19_Daily_Updates/Animated_Objects/worlwide.gif)
+![Alt text](Animated_Objects/worlwide.gif)
