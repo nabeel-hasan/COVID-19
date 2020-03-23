@@ -11,4 +11,3 @@ the topics.
 * Covid19 cases in China (in detail)
 * Covid19 cases in USA (in detail)
 
-![Alt text](Animated_Objects/worlwide.gif)
