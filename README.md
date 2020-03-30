@@ -11,6 +11,6 @@ For daily updates please visit the link [COVID-19 Daily Updates](https://bit.ly/
 * Trajectory of spread in Major countries.
 * Momentum of Spread (Based on rolling mean)
 * Covid19 cases in China (in detail)
-* Covid19 cases in USA (in detail)
+
 
 
