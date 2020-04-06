@@ -12,5 +12,5 @@ For daily updates please visit the link [COVID-19 Daily Updates](https://bit.ly/
 * Momentum of Spread (Based on rolling mean)
 * Covid19 cases in China (in detail)
 
-
+<center><img src = "Covid19_Daily_Updates/Animated_Objects/Heatmap.png" width = "1500" height = "500"></center>
 
